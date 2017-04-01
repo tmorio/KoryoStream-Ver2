@@ -1,0 +1,10 @@
+<files acs.php>
+order allow,deny
+deny from all
+</files>
+<files acs2.php>
+order allow,deny
+deny from all
+</files>
+
+
